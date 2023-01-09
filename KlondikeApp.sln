@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlondikeLibrary", "KlondikeLibrary\KlondikeLibrary.csproj", "{B5F49410-ED40-412B-88D7-1B4F14DCE64F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrepion.JsonRpc", "Intrepion.JsonRpc\Intrepion.JsonRpc.csproj", "{C7B77768-6461-484A-A0BF-76412545FFAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B5F49410-ED40-412B-88D7-1B4F14DCE64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5F49410-ED40-412B-88D7-1B4F14DCE64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5F49410-ED40-412B-88D7-1B4F14DCE64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B77768-6461-484A-A0BF-76412545FFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B77768-6461-484A-A0BF-76412545FFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B77768-6461-484A-A0BF-76412545FFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B77768-6461-484A-A0BF-76412545FFAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
