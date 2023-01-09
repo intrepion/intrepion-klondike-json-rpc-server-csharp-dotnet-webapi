@@ -25,6 +25,7 @@
   <ItemGroup>
     <ProjectReference Include="..\KlondikeLibrary\KlondikeLibrary.csproj" />
     <ProjectReference Include="..\Intrepion.JsonRpc\Intrepion.JsonRpc.csproj" />
+    <ProjectReference Include="..\KlondikeWebApi\KlondikeWebApi.csproj" />
   </ItemGroup>
 
 </Project>
