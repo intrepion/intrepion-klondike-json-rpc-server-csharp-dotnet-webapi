@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlondikeLibrary", "Klondike
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrepion.JsonRpc", "Intrepion.JsonRpc\Intrepion.JsonRpc.csproj", "{C7B77768-6461-484A-A0BF-76412545FFAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KlondikeWebApi", "KlondikeWebApi\KlondikeWebApi.csproj", "{298945F5-7B49-49A4-BF95-9CD04AD2B05B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C7B77768-6461-484A-A0BF-76412545FFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7B77768-6461-484A-A0BF-76412545FFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7B77768-6461-484A-A0BF-76412545FFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298945F5-7B49-49A4-BF95-9CD04AD2B05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298945F5-7B49-49A4-BF95-9CD04AD2B05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298945F5-7B49-49A4-BF95-9CD04AD2B05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298945F5-7B49-49A4-BF95-9CD04AD2B05B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
